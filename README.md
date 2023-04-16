@@ -12,9 +12,6 @@ I'm Currently Working on Aktiftech<br>I'm Currently on learning Angular Mediatr 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Emre Ozkanca&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
